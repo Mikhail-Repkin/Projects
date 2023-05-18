@@ -1,4 +1,4 @@
-## 1. [Извлечение фрагмента текста](https://github.com/Mikhail-Repkin/Yandex_Practikum_projects/tree/main/01.%20Steel_temperature_prediction)
+## 1. [Извлечение фрагмента текста](https://github.com/Mikhail-Repkin/Projects/tree/main/1_NLP_QA)
 ### Описание: 
 Разработана модель, которая способна по паре "текст документа - пункт анкеты" извлекать из текста документа нужный фрагмент.
 ### Инструменты и библиотеки:
@@ -12,3 +12,4 @@
 ![HuggingFace](https://img.shields.io/badge/-%F0%9F%A4%97-white?style=flat&logo=%F0%9F%A4%97)
 ![BERT](https://img.shields.io/badge/-BERT-white?style=flat&logo=BERT)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-white?style=flat&logo=PyTorch)
+
